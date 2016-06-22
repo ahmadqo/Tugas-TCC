@@ -1,6 +1,6 @@
 # Tugas-TCC
 ##Cara menjalankan aplikasi
-instal terlebih dahulu nodejs
+instal terlebih dahulu nodejs kemudian buka command prompt,
 kemudian ketikkan perintah berikut:
 ``````
 	> npm install
